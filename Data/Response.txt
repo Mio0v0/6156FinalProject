@@ -1,0 +1,212 @@
+Participant 1: Response
+
+Section 1: Demographics
+Age: 35
+Gender: Female
+Do you have any physical disabilities that affect your gaming experience?
+Yes
+How often do you play video games?
+Daily
+
+Section 2: General Gaming Experience
+5. What types of gaming interfaces have you used before?
+Keyboard and mouse
+VR headset
+Rate your overall satisfaction with traditional gaming interfaces on a scale of 1 to 10.
+7
+
+Section 3: Experience with Gaze Tracking and SSVEP-based Gaming
+7. Have you ever used a gaze tracking or SSVEP-based control system in gaming before?
+No
+Rate the ease of use of the gaze tracking and SSVEP-based control system on a scale of 1 to 10.
+N/A
+Rate how intuitive the controls felt during gameplay on a scale of 1 to 10.
+N/A
+
+Section 4: Engagement
+10. When using gaze tracking and SSVEP-based controls, how absorbed did you feel in the game?
+Not at all absorbed
+Did you find that you lost track of time while playing?
+Never
+
+Section 5: Immersiveness
+12. Rate how immersive the game felt when using gaze tracking and SSVEP-based controls compared to traditional controls on a scale of 1 to 10.
+N/A
+Did the integration of gaze tracking and SSVEP controls enhance your sense of being 'in the game'?
+No
+
+Section 6: Overall Satisfaction
+14. How satisfied were you with the experience provided by the gaze tracking and SSVEP-based control system?
+Neutral
+Would you prefer the gaze tracking and SSVEP-based control system over traditional gaming interfaces for future gaming?
+Might or might not
+
+Section 7: Open-Ended Feedback
+16. What did you like most about the gaze tracking and SSVEP-based gaming interface?
+"I appreciated the innovative approach, but as I never used it, I can't fully judge its effectiveness."
+What improvements would you suggest for the gaze tracking and SSVEP-based gaming interface?
+"Perhaps a more detailed tutorial or trial session to get used to the controls would be helpful."
+
+Section 8: Concluding Questions
+18. Would you recommend this new gaming interface to other players?
+No
+Any additional comments or observations?
+"I think this technology has potential but needs more user-friendly features for newcomers."
+
+
+Participant 2: Response
+
+Section 1: Demographics
+Age: 24
+Gender: Male
+Do you have any physical disabilities that affect your gaming experience?
+No
+How often do you play video games?
+Weekly
+
+Section 2: General Gaming Experience
+5. What types of gaming interfaces have you used before?
+Gamepad
+Motion control
+Rate your overall satisfaction with traditional gaming interfaces on a scale of 1 to 10.
+8
+
+Section 3: Experience with Gaze Tracking and SSVEP-based Gaming
+7. Have you ever used a gaze tracking or SSVEP-based control system in gaming before?
+Yes
+Rate the ease of use of the gaze tracking and SSVEP-based control system on a scale of 1 to 10.
+9
+Rate how intuitive the controls felt during gameplay on a scale of 1 to 10.
+9
+
+Section 4: Engagement
+10. When using gaze tracking and SSVEP-based controls, how absorbed did you feel in the game?
+Extremely absorbed
+Did you find that you lost track of time while playing?
+Often
+
+Section 5: Immersiveness
+12. Rate how immersive the game felt when using gaze tracking and SSVEP-based controls compared to traditional controls on a scale of 1 to 10.
+10
+Did the integration of gaze tracking and SSVEP controls enhance your sense of being 'in the game'?
+Yes, significantly
+
+Section 6: Overall Satisfaction
+14. How satisfied were you with the experience provided by the gaze tracking and SSVEP-based control system?
+Very satisfied
+Would you prefer the gaze tracking and SSVEP-based control system over traditional gaming interfaces for future gaming?
+Definitely would
+
+Section 7: Open-Ended Feedback
+16. What did you like most about the gaze tracking and SSVEP
+"The gaze tracking and SSVEP system revolutionizes gaming with its precise, responsive controls that enhance immersion, reduce strain, and promote inclusivity for players with mobility issues."
+
+
+Participant 3: Response
+
+Section 1: Demographics
+Age: 22
+Gender: Male
+Do you have any physical disabilities that affect your gaming experience?
+No
+How often do you play video games?
+Daily
+
+Section 2: General Gaming Experience
+5. What types of gaming interfaces have you used before?
+Keyboard and mouse
+Gamepad
+Rate your overall satisfaction with traditional gaming interfaces on a scale of 1 to 10.
+6
+
+Section 3: Experience with Gaze Tracking and SSVEP-based Gaming
+7. Have you ever used a gaze tracking or SSVEP-based control system in gaming before?
+Yes
+Rate the ease of use of the gaze tracking and SSVEP-based control system on a scale of 1 to 10.
+8
+Rate how intuitive the controls felt during gameplay on a scale of 1 to 10.
+7
+
+Section 4: Engagement
+10. When using gaze tracking and SSVEP-based controls, how absorbed did you feel in the game?
+Very absorbed
+Did you find that you lost track of time while playing?
+Sometimes
+
+Section 5: Immersiveness
+12. Rate how immersive the game felt when using gaze tracking and SSVEP-based controls compared to traditional controls on a scale of 1 to 10.
+9
+Did the integration of gaze tracking and SSVEP controls enhance your sense of being 'in the game'?
+Yes, significantly
+
+Section 6: Overall Satisfaction
+14. How satisfied were you with the experience provided by the gaze tracking and SSVEP-based control system?
+Satisfied
+Would you prefer the gaze tracking and SSVEP-based control system over traditional gaming interfaces for future gaming?
+Probably would
+
+Section 7: Open-Ended Feedback
+16. What did you like most about the gaze tracking and SSVEP-based gaming interface?
+"The ability to control the game just by looking at different parts of the screen felt futuristic and very responsive."
+What improvements would you suggest for the gaze tracking and SSVEP-based gaming interface?
+"It would be better if the system could be more forgiving with slight movements as they can misinterpret my intentions."
+Section 8: Concluding Questions
+18. Would you recommend this new gaming interface to other players?
+Yes
+Any additional comments or observations?
+"Great for accessibility and bringing a new dimension to gaming."
+
+Participant 4: Response
+Section 1: Demographics
+Age: 24
+Gender: Female
+Do you have any physical disabilities that affect your gaming experience?
+No
+How often do you play video games?
+Daily
+
+Section 2: General Gaming Experience
+5. What types of gaming interfaces have you used before?
+Keyboard and mouse
+Gamepad
+VR headset
+Rate your overall satisfaction with traditional gaming interfaces on a scale of 1 to 10.
+8
+
+Section 3: Experience with Gaze Tracking and SSVEP-based Gaming
+7. Have you ever used a gaze tracking or SSVEP-based control system in gaming before?
+Yes
+Rate the ease of use of the gaze tracking and SSVEP-based control system on a scale of 1 to 10.
+9
+Rate how intuitive the controls felt during gameplay on a scale of 1 to 10.
+9
+
+Section 4: Engagement
+10. When using gaze tracking and SSVEP-based controls, how absorbed did you feel in the game?
+Extremely absorbed
+Did you find that you lost track of time while playing?
+Often
+
+Section 5: Immersiveness
+12. Rate how immersive the game felt when using gaze tracking and SSVEP-based controls compared to traditional controls on a scale of 1 to 10.
+10
+Did the integration of gaze tracking and SSVEP controls enhance your sense of being 'in the game'?
+Yes, significantly
+
+Section 6: Overall Satisfaction
+14. How satisfied were you with the experience provided by the gaze tracking and SSVEP-based control system?
+Very satisfied
+Would you prefer the gaze tracking and SSVEP-based control system over traditional gaming interfaces for future gaming?
+Definitely would
+Section 7: Open-Ended Feedback
+16. What did you like most about the gaze tracking and SSVEP-based gaming interface?
+"I loved how the interface allowed for a truly immersive experience, making every game session feel incredibly real and engaging. The responsiveness and accuracy of the system made gameplay effortless and highly enjoyable."
+What improvements would you suggest for the gaze tracking and SSVEP-based gaming interface?
+"It would be great to see more games optimized for this technology to further explore its capabilities across various game genres."
+
+Section 8: Concluding Questions
+18. Would you recommend this new gaming interface to other players?
+Yes
+Any additional comments or observations?
+"This technology is a significant advancement in gaming, especially for those looking for a deeper connection with their virtual environments. It's exciting to think about future developments."
+

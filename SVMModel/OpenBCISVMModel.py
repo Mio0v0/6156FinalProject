@@ -8,7 +8,7 @@ import pyOpenBCI
 import mne
 from mne.preprocessing import ICA, corrmap
 import matplotlib.pyplot as plt
-from scipy.signal import welch
+from scipy.signal import welch, iirnotch
 from scipy.stats import ttest_rel
 from sklearn.svm import SVC
 from sklearn.model_selection import train_test_split, GridSearchCV
@@ -51,6 +51,9 @@ def initialize_stream(argv):
 
 def preprocess_eeg(raw, srate):
     """ Preprocess the EEG data using common techniques. """
+    # Apply notch filtering to remove 60 Hz power line interference
+    raw = mne.filter.notch_filter(raw, srate, 60.0, trans_bandwidth=2.0, filter_length='auto', phase='zero')
+
     # Apply common-average referencing
     raw.set_eeg_reference("average", projection=False, verbose=False)
 
