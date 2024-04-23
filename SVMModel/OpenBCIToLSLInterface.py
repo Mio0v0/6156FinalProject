@@ -1,3 +1,4 @@
+# Refereed to OpenBCIInterface.py
 import time
 
 import brainflow
