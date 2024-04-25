@@ -31,4 +31,4 @@ This project explores the integration of gaze tracking and steady-state visually
 ### Acknowledgments
 - Xing, X., Wang, Y., Pei, W., Guo, J., & Liu, S. (2018). A high-speed SSVEP-based BCI using low-frequency stimuli: Design and evaluation. International Journal of Neural Systems, 28(07), 1850019[1].
 - Bin, G., Gao, X., Yan, Z., Hong, B., & Gao, S. (2009). An online multi-channel SSVEP-based brain–computer interface using a canonical correlation analysis method. Journal of neural engineering, 6(4), 046002.
-- Multi-Frequency SSVEP Dataset. (n.d.). Retrieved from https://github.com/xdjiang/SSVEP-Dataset.
+- Multi-Frequency SSVEP Dataset. (n.d.). Retrieved from [https://github.com/xdjiang/SSVEP-Dataset](https://doi.org/10.26188/22015694.v5).
