@@ -37,6 +37,10 @@ https://github.com/Mio0v0/6156FinalProject/assets/145713288/49ac978d-a726-468c-b
 3. Fixate your gaze on the flickering targets to destroy them
 4. Adjust frequencies and colors in the settings for personalized accessibility
 
+
+https://github.com/Mio0v0/6156FinalProject/assets/145713288/fa76f5d1-6d3f-44b6-ab04-8598cd201467
+
+
 ### Acknowledgments
 - Xing, X., Wang, Y., Pei, W., Guo, J., & Liu, S. (2018). A high-speed SSVEP-based BCI using low-frequency stimuli: Design and evaluation. International Journal of Neural Systems, 28(07), 1850019[1].
 - Bin, G., Gao, X., Yan, Z., Hong, B., & Gao, S. (2009). An online multi-channel SSVEP-based brain–computer interface using a canonical correlation analysis method. Journal of neural engineering, 6(4), 046002.
