@@ -1,3 +1,5 @@
+# Reference to "Eye Configs"
+
 # Define fundamental parameters for fixation detection
 min_fixation_duration_sec = 0.15
 frames_per_second = 30
@@ -22,3 +24,5 @@ color_mid_periphery = (0, 255, 255)
 image_dimensions = (400, 400, 3)  # width x height x color channels
 image_width, image_height = image_dimensions[0], image_dimensions[1]
 pixels_per_degree = (image_width / field_of_view_degrees[0], image_height / field_of_view_degrees[1])  # calculate pixels per degree for horizontal and vertical
+# Reference to "Eye Configs"
+

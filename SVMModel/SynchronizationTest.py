@@ -1,3 +1,4 @@
+# Reference to "OpenBCI interface synchronization"
 import serial
 import time
 

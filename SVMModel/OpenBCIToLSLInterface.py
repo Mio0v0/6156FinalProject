@@ -1,4 +1,4 @@
-# Refereed to OpenBCIInterface.py
+# Reference to "OpenBCIInterface"
 import time
 
 import brainflow

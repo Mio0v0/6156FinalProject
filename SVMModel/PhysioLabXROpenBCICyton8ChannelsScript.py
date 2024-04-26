@@ -1,5 +1,4 @@
-# This is an example script for PhysioLabXR. It is a script that reads data from OpenBCI Cyton 8 Channels and sends it to Lab Streaming Layer.
-# The output stream name is "OpenBCICyton8Channels"
+# Reference to "PhysioLabXROpenBCICyton8Channels"
 
 
 import time
