@@ -3,11 +3,20 @@
 ### Overview
 This project explores the integration of gaze tracking and steady-state visually evoked potential (SSVEP) technology to create an immersive and accessible virtual reality gaming experience. Players engage with moving targets - robots adorned with flickering dots - by fixating their gaze on a target, causing their brain signals to synchronize with the flickering frequency and triggering the destruction of the object in-game.
 
+
+https://github.com/Mio0v0/6156FinalProject/assets/145713288/b7768bae-9ce4-4530-8834-f54c3b8445fe
+
+
+
 ### Key Features
 - Seamless integration of gaze tracking and SSVEP detection for enhanced accuracy and reliability
 - Customization options to adjust flickering light frequencies and colors for individual accessibility
 - Advanced signal processing techniques like notch filtering, Fast Fourier Transform, and Recursive Least Squares adaptive filtering to enhance SSVEP detection from EEG data
 - Support Vector Machine model for supervised learning to differentiate SSVEP signals from background EEG activity
+
+
+https://github.com/Mio0v0/6156FinalProject/assets/145713288/49ac978d-a726-468c-bed7-d5860b46a448
+
 
 ### Tools and APIs
 - Unity Game Engine, Version 2022.3.14f1
